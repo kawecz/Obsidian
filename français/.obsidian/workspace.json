@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "6cbdfe3c5820906d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d0979be19a4ebad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e579af258beb3948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📗A2/📖 Grammar/5️⃣ Demonstrative Adjectives (ce cette).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5️⃣ Demonstrative Adjectives (ce cette)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7647ec5a6df2361d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8cc462708b57866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc5788a989b8614",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ddbad2f4b569e97d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c2826d58544233e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56e81379af32b436",
+    "type": "split",
+    "children": [
+      {
+        "id": "6422692accb4a0d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36258a4fa1226181",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0bed5cdc749e464c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dc8bd486216c5c4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "67f7e9ad6b4235bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e579af258beb3948",
+  "lastOpenFiles": [
+    "📙C1-C2/🗣️ Vocabulary/1️⃣ Legal and Academic Terms ⚖️🎓.md",
+    "Untitled",
+    "Untitled.md",
+    "casa",
+    "📙C1-C2/🗣️ Vocabulary/2️⃣ Advanced Idioms 💡.md",
+    "📙C1-C2/📖 Grammar/3️⃣ Stylistic Inversion.md",
+    "📙C1-C2/📖 Grammar/2️⃣ Nuanced Subjunctive.md",
+    "📙C1-C2/📖 Grammar/1️⃣ Literary Tenses (Passe Simple).md",
+    "📙C1-C2/🌍 History Geography/2️⃣ Modern France (EU Immigration) 🇪🇺🌐.md",
+    "📙C1-C2/🌍 History Geography/1️⃣ French Philosophy (Descartes) 🤔.md",
+    "📘B2/🗣️ Vocabulary/3️⃣ Science and Environment 🌱🔬.md",
+    "📘B2/🗣️ Vocabulary/2️⃣ Literature Terms 📖.md",
+    "📘B2/🗣️ Vocabulary/1️⃣ Politics and Society 🏛️.md",
+    "📘B2/📖 Grammar/5️⃣ Indirect Speech.md",
+    "📘B2/📖 Grammar/4️⃣ Passive Voice.md",
+    "📘B2/📖 Grammar/3️⃣ Conditional Past.md",
+    "📘B2/📖 Grammar/2️⃣ Plus que Parfait.md",
+    "📘B2/📖 Grammar/1️⃣ Subjunctive Advanced.md",
+    "📘B2/🌍 History Geography/3️⃣ Francophone Literature ✍️.md",
+    "📘B2/🌍 History Geography/2️⃣ French Colonization 🗺️.md",
+    "📘B2/🌍 History Geography/1️⃣ World Wars and France ⚔️.md",
+    "📘B1/🗣️ Vocabulary/3️⃣ Health and Body Parts 🏥💪.md",
+    "📘B1/🗣️ Vocabulary/2️⃣ Technology Terms 💻📱.md",
+    "📘B1/🗣️ Vocabulary/1️⃣ Work and Professions 💼👨⚕️.md",
+    "📘B1/📖 Grammar/5️⃣ Relative Pronouns (qui que dont).md",
+    "📘B1/📖 Grammar/4️⃣ Subjunctive Basics.md",
+    "📘B1/📖 Grammar/3️⃣ Conditional Present.md",
+    "📗A2/🗣️ Vocabulary",
+    "📗A2/🌍 History Geography",
+    "📘B1/🌍 History Geography",
+    "📘B2/🌍 History Geography",
+    "📙C1-C2/🌍 History Geography",
+    "📙C2/🌍 History. Geography",
+    "📙C2/🗣️ Vocabulary",
+    "📙C1-C2/🗣️ Vocabulary"
+  ]
+}
