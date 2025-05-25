@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "ebec7eab6173cd2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa8e9dacf66c1898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe4b89068040de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📗A1/📚Grammar/📕Nominative case/Learning basic noun and adjective endings in nominative.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning basic noun and adjective endings in nominative"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ad1e3edc35cd187",
+    "type": "split",
+    "children": [
+      {
+        "id": "50cbb299ccdc6315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "968e8e60a72785cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44f1698634b58fe2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb60817a77b14045",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295
+  },
+  "right": {
+    "id": "ad117257b21416f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c1a3d1cf952d2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2a28187f47ef931",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📙C2/🧾History/Poland in the European Union and modern geopolitical influence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Poland in the European Union and modern geopolitical influence"
+            }
+          },
+          {
+            "id": "5b199a71bc1e4660",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📙C2/🧾History/Poland in the European Union and modern geopolitical influence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Poland in the European Union and modern geopolitical influence"
+            }
+          },
+          {
+            "id": "172bc042e10468e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b568535cf74d923",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📙C2/🧾History/Poland in the European Union and modern geopolitical influence.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Poland in the European Union and modern geopolitical influence"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ebe4b89068040de0",
+  "lastOpenFiles": [
+    "📗A1/📚Grammar/2-Present simple tense.md",
+    "📗A1/📚Grammar/1-Basic sentence structure (SVO).md",
+    "📗A1/📚Vocabulary/1-Common greetings and introductions.md",
+    "📙C2/🧾History/Poland in the European Union and modern geopolitical influence.md",
+    "📙C2/🧾History/Contemporary Poland politics, culture, and economic growth.md",
+    "📙C2/🧾Culture/Polish cultural identity through language.md",
+    "📙C2/🗺Geography/The future of Poland’s urban and environmental planning.md",
+    "📙C2/🗺Geography/Poland’s role in European transportation and logistics.md",
+    "📙C2/📚Vocabulary/Rare animal species in Poland (rzadkie gatunki zwierząt w Polsce).md",
+    "📙C2/📚Vocabulary/Environmental discussions (środowisko i ekologia).md",
+    "📙C2/📚Vocabulary/Detailed architectural vocabulary (szczegółowa terminologia architektoniczna).md",
+    "📙C2/📚Grammar/2-Stylistic variations and rhetorical devices.md",
+    "📙C2/📚Grammar/1-Mastery of complex syntax.md",
+    "📙C2/📚Grammar/📕Locative & Vocative/Endings.md",
+    "📙C2/📚Grammar/📕Locative & Vocative/Content.md",
+    "📙C2/📚Grammar/📕Locative & Vocative 1/Content.md",
+    "📙C2/📚Grammar/📕Locative & Vocative 1",
+    "📙C1/🧾History/Poland under communist rule (PRL, Solidarity movement, economic crisis).md",
+    "📙C1/🧾History/Fall of communism and transition to democracy.md",
+    "📙C1/🧾Culture/The evolution of the Polish language.md",
+    "📙C1/🧾Culture/Deep dive into Polish literature.md",
+    "📙C1/🗺Geography/The impact of geography on Poland’s historical development.md",
+    "📙C1/🗺Geography/Poland’s economic geography - industries and agriculture.md",
+    "📙C1/📚Vocabulary/3-Geographical features of Poland (geografia Polski).md",
+    "📙C1/📚Vocabulary/2-Philosophy and abstract concepts (filozofia i pojęcia abstrakcyjne).md",
+    "📙C1/📚Vocabulary/1-Academic and professional jargon (żargon akademicki i zawodowy).md",
+    "📙C1/📚Grammar/3-Advanced use of participles.md",
+    "📙C2/🗺Geography",
+    "📙C1/🗺Geography",
+    "📘B2/🗺Geography",
+    "📘B1/🗺Geography",
+    "📗A1/🗺Geography/🗺About the Country",
+    "📗A2/🗺Geography/🏞 Major Lakes and Rivers",
+    "📗A2/🗺Geography/🗺Main Geographical divisions",
+    "📗A2/🗺Geography",
+    "📗A1/🗺Geography/🗺Basic geography"
+  ]
+}
