@@ -12,26 +12,26 @@ When starting to learn Russian, mastering greetings and basic introductions is c
 
 ### 📖 Vocabulary & Phrases
 
-|🇷🇺 Russian Expression|🇬🇧 English Translation|💬 Context / Notes|
-|---|---|---|
-|Привет!|Hi!|Informal – with friends, peers|
-|Здравствуйте!|Hello!|Formal – respectful, neutral context|
-|Доброе утро!|Good morning!|Until noon|
-|Добрый день!|Good afternoon!|Noon to early evening|
-|Добрый вечер!|Good evening!|Evening time greeting|
-|Пока!|Bye!|Informal|
-|До свидания!|Goodbye!|Formal and neutral|
-|До скорого!|See you soon!|Friendly or casual goodbye|
-|Спасибо.|Thank you.|Formal or neutral|
-|Спасибо большое!|Thank you very much!|Stronger emphasis|
-|Пожалуйста.|Please / You’re welcome|Used in both meanings|
-|Извините.|Excuse me / I’m sorry|Formal apology or attention-getting|
-|Прости.|Sorry|Informal apology|
-|Меня зовут...|My name is...|Common introduction|
-|Как тебя зовут?|What’s your name? (informal)|Use with children, peers|
-|Как вас зовут?|What’s your name? (formal)|Use with strangers, elders|
-|Очень приятно.|Nice to meet you.|Polite response to an introduction|
-|Взаимно.|Likewise.|Response to "Очень приятно"|
+| 🇷🇺 Russian Expression | 🇬🇧 English Translation     | 💬 Context / Notes                   |
+| ----------------------- | ---------------------------- | ------------------------------------ |
+| Привет!                 | Hi!                          | Informal – with friends, peers       |
+| Здравствуйте!           | Hello!                       | Formal – respectful, neutral context |
+| Доброе утро!            | Good morning!                | Until noon                           |
+| Добрый день!            | Good afternoon!              | Noon to early evening                |
+| Добрый вечер!           | Good evening!                | Evening time greeting                |
+| Пока!                   | Bye!                         | Informal                             |
+| До свидания!            | Goodbye!                     | Formal and neutral                   |
+| До скорого!             | See you soon!                | Friendly or casual goodbye           |
+| Спасибо.                | Thank you.                   | Formal or neutral                    |
+| Спасибо большое!        | Thank you very much!         | Stronger emphasis                    |
+| Пожалуйста.             | Please / You’re welcome      | Used in both meanings                |
+| Извините.               | Excuse me / I’m sorry        | Formal apology or attention-getting  |
+| Прости.                 | Sorry                        | Informal apology                     |
+| Меня зовут...           | My name is...                | Common introduction                  |
+| Как тебя зовут?         | What’s your name? (informal) | Use with children, peers             |
+| Как вас зовут?          | What’s your name? (formal)   | Use with strangers, elders           |
+| Очень приятно.          | Nice to meet you.            | Polite response to an introduction   |
+| Взаимно.                | Likewise.                    | Response to "Очень приятно"          |
 
 ---
 
