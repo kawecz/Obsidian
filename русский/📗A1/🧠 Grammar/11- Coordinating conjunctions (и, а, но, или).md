@@ -1,73 +1,68 @@
 
 ---
+## 🔗 Introduction
 
-|🇷🇺 Topic|11 - Coordinating Conjunctions (и, а, но, или)|
-|---|---|
+**Coordinating conjunctions** (_сочинительные союзы_) in Russian are used to **connect words, phrases, or clauses of equal grammatical value**. They are essential for creating compound sentences and smooth, logical speech. Unlike subordinating conjunctions, they do **not change word order** or affect case usage.
 
-### 📚 Introduction
+## 📘 Common Coordinating Conjunctions
 
-Coordinating conjunctions are used to connect words, phrases, or clauses that are of equal syntactic importance. In Russian, these conjunctions link elements of a sentence, allowing for a smooth flow of ideas. The most common coordinating conjunctions are **и (and)**, **а (but)**, **но (but)**, and **или (or)**.
+|Russian|Pronunciation|Meaning|Usage|
+|---|---|---|---|
+|и|[ee]|and|Connects similar items or actions|
+|а|[a]|and / but (contrast)|Contrasts different subjects or qualities|
+|но|[no]|but|Shows contradiction or exception|
+|или|[EE-lee]|or|Offers a choice|
+|либо|[LEE-ba]|or (formal/literary)|Similar to _или_, more formal|
+|да|[da]|and / but (archaic/literary)|Used in older or poetic language|
+|то есть|[to yest’]|that is / i.e.|Clarifies or explains|
+|однако|[ad-NA-ka]|however|Formal contrast, similar to _но_|
 
----
+## 🧾 How to Use Them
 
-### 🔑 1 - **и** (and)
+### 1. **и** – and
 
-The conjunction **и** is used to connect similar elements, meaning "and" in English. It links nouns, verbs, adjectives, or even entire clauses.
-
-- **Я иду в магазин, и она тоже.** — I am going to the store, and she is too.
+- _Я люблю чай и кофе._ – I like tea and coffee.
     
-- **У нас есть книга и журнал.** — We have a book and a magazine.
-    
-- **Ты говоришь и пишешь по-русски?** — Do you speak and write in Russian?
-    
-
-### 🧪 2 - **а** (but, and)
-
-**А** is used to contrast two ideas or to introduce a new idea that is related but different. It’s similar to "but" or "and" depending on the context.
-
-- **Я люблю чай, а он — кофе.** — I like tea, but he likes coffee.
-    
-- **Маша поет, а Петя играет на гитаре.** — Masha sings, and Petya plays the guitar.
+- _Она поёт и танцует._ – She sings and dances.
     
 
-### 🧠 3 - **но** (but)
+### 2. **а** – contrast (like “while” or “but”)
 
-**Но** is used to introduce a contradiction or opposition to a previously mentioned idea, similar to "but" in English. It emphasizes the contrast between two elements.
-
-- **Я хочу пойти на улицу, но идёт дождь.** — I want to go outside, but it’s raining.
+- _Я люблю чай, а он кофе._ – I like tea, but he likes coffee.
     
-- **Он умный, но ленивый.** — He is smart, but lazy.
+- _Она дома, а я на работе._ – She is at home, while I’m at work.
     
 
-### 🔗 4 - **или** (or)
+### 3. **но** – but
 
-**Или** is used to indicate alternatives or choices, meaning "or" in English. It can connect nouns, verbs, adjectives, and even whole clauses.
-
-- **Ты хочешь чай или кофе?** — Do you want tea or coffee?
+- _Он устал, но работает._ – He’s tired, but he works.
     
-- **Мы поедем в Москву или Санкт-Петербург.** — We will go to Moscow or St. Petersburg.
-    
-- **Он был очень уставшим, или он просто не хотел работать.** — He was very tired, or he just didn’t want to work.
+- _Это дорого, но красиво._ – It’s expensive, but beautiful.
     
 
----
+### 4. **или** – or
 
-### 🧪 5 - Use of Coordinating Conjunctions in Complex Sentences
-
-Coordinating conjunctions can also connect independent clauses, making the sentence more complex while maintaining clarity.
-
-- **Я читаю книгу, а она смотрит телевизор.** — I am reading a book, and she is watching TV.
+- _Ты хочешь чай или кофе?_ – Do you want tea or coffee?
     
-- **Он поехал в Москву, но не успел увидеть своих друзей.** — He went to Moscow, but didn’t manage to see his friends.
-    
-- **Мы выбрали этот ресторан, или ты хочешь другой?** — We chose this restaurant, or do you want another one?
+- _Мы поедем в Москву или в Питер._ – We’ll go to Moscow or St. Petersburg.
     
 
----
+### 5. **то есть** – that is, in other words
 
-### 🎯 Conclusion
+- _Я фрилансер, то есть работаю на себя._ – I’m a freelancer, that is, I work for myself.
+    
 
-Coordinating conjunctions like **и**, **а**, **но**, and **или** are essential for combining ideas in Russian. They help link sentences and phrases in a way that makes communication fluid and natural. Mastering these conjunctions will enable you to express complex ideas and contrast them effectively.
+## ⚠️ Notes
 
----
+- Russian does **not use a comma before "и"** like English often does before "and" (Oxford comma).
+    
+- Use commas before **но**, **а**, **или** when connecting full clauses:
+    
+    - _Он пришёл, но ничего не сказал._
+        
+    - _Я спросил, а он промолчал._
+        
 
+## ✅ Conclusion
+
+Russian **coordinating conjunctions** help join equal parts of speech or clauses. The most common are _и, а, но,_ and _или_. Understanding their meanings and usage is key to forming more natural and complex sentences. Practice by combining short statements into longer ones using these connectors.

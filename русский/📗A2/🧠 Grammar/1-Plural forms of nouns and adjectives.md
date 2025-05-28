@@ -1,121 +1,58 @@
 
-|🇷🇺 Topic|1 - Plural Forms of Nouns and Adjectives (Множественное число существительных и прилагательных)|
-|---|---|
-
-### 📚 Introduction
-
-The plural form of nouns and adjectives is an essential aspect of Russian grammar. Pluralization in Russian varies depending on gender, declension type, and the final letter of the noun or adjective. Understanding how to form and use plural nouns and adjectives correctly is key to mastering the language. This topic covers how to form the plural of both nouns and adjectives in different cases, with examples to help guide you.
-
 ---
+## 👥 Introduction
 
-### 🔑 1 - Plural Nouns (Множественное число существительных)
+In Russian, **plural forms** are used for **two or more** of anything—nouns, adjectives, or pronouns. Pluralisation affects not only the noun but also the **adjectives, pronouns, and verbs** that agree with it. Knowing how to form plurals is essential for building correct sentences.
 
-To form the plural of Russian nouns, different rules apply depending on the gender and ending of the word.
+## 📘 Plural Forms of Nouns
 
-#### 1.1 - Masculine Nouns (Мужской род)
+Plural endings in Russian depend on **gender** and **spelling rules**. Here's a breakdown by gender:
 
-- For most masculine nouns ending in a consonant, add **-ы** or **-и**:
+|Gender|Singular Ending|Plural Ending|Example|
+|---|---|---|---|
+|Masculine|consonant|-ы / -и|_стол → столы_ (tables)|
+|Feminine|-а / -я|-ы / -и|_мама → мамы_ (moms), _неделя → недели_ (weeks)|
+|Neuter|-о / -е|-а / -я|_окно → окна_ (windows), _море → моря_ (seas)|
+|Soft ending / -ь|-ь (masc. or fem.)|-и|_день → дни_ (days), _тетрадь → тетради_ (notebooks)|
+
+> **Rule**: After **г, к, х, ж, ч, ш, щ**, use **-и** instead of **-ы**.  
+> Example: _книга → книги_, _дочка → дочки_
+
+## 🧾 Plural Forms of Adjectives
+
+Adjectives must agree with the noun in **number**, **gender**, and **case**. The plural endings for adjectives are:
+
+|Gender|Singular Ending|Plural Ending|Example|
+|---|---|---|---|
+|Masculine|-ый / -ий|-ые / -ие|_новый стол → новые столы_|
+|Feminine|-ая|-ые / -ие|_новая книга → новые книги_|
+|Neuter|-ое|-ые / -ие|_новое окно → новые окна_|
+
+> Use **-ие** after soft consonants or spelling rule letters (ж, ч, ш, щ, й).  
+> Example: _синий мяч → синие мячи_
+
+## 🗣️ Example Sentences
+
+- _Это новые дома._ – These are new houses.
     
-    - стол (table) → столы (tables)
-        
-    - город (city) → города (cities)
-        
-- Masculine nouns ending in **-й** or **-ь** change to **-и**:
+- _Я вижу большие окна._ – I see big windows.
     
-    - музей (museum) → музеи (museums)
-        
-    - герой (hero) → герои (heroes)
-        
-
-#### 1.2 - Feminine Nouns (Женский род)
-
-- Feminine nouns ending in **-а** or **-я** change to **-ы** or **-и**:
+- _Маленькие дети играют._ – Small children are playing.
     
-    - книга (book) → книги (books)
-        
-    - лошадь (horse) → лошади (horses)
-        
-- Feminine nouns ending in **-ь** change to **-и**:
+- _У нас интересные книги._ – We have interesting books.
     
-    - ночь (night) → ночи (nights)
-        
-    - дочь (daughter) → дочери (daughters)
-        
 
-#### 1.3 - Neuter Nouns (Средний род)
+## ⚠️ Common Mistakes
 
-- Neuter nouns ending in **-о** or **-е** change to **-а** or **-я**:
+- Forgetting to change the adjective ending along with the noun.
     
-    - окно (window) → окна (windows)
+    - _новые стол ❌_ → _новые столы ✅_
         
-    - море (sea) → моря (seas)
-        
-
----
-
-### 🧪 2 - Plural Adjectives (Множественное число прилагательных)
-
-Adjectives in the plural form agree with the noun in both gender and case. The plural form of adjectives typically ends in **-ые** or **-ие**.
-
-#### 2.1 - Adjectives for Masculine and Neuter Nouns
-
-- For most adjectives, **-ый** or **-ий** changes to **-ые** or **-ие**:
+- Using incorrect plural form with soft endings or spelling rule letters.
     
-    - красивый (beautiful) → красивые (beautiful, plural)
-        
-    - новый (new) → новые (new, plural)
-        
-
-#### 2.2 - Adjectives for Feminine Nouns
-
-- Adjectives ending in **-ая** or **-яя** change to **-ые** or **-ие** in the plural form:
+- Not matching **plural adjectives** and **nouns** in case (especially in Accusative, Genitive, etc.).
     
-    - большая (big) → большие (big, plural)
-        
-    - красная (red) → красные (red, plural)
-        
 
-#### 2.3 - Irregular Plural Forms
+## ✅ Conclusion
 
-- Some adjectives, especially those ending in **-ой** or **-ний**, may undergo more complex changes:
-    
-    - старый (old) → старые (old, plural)
-        
-    - зелёный (green) → зелёные (green, plural)
-        
-
----
-
-### 🧠 3 - Special Cases and Irregularities (Особые случаи и нерегулярности)
-
-Some nouns and adjectives in Russian have irregular plural forms or exceptions to the general rules.
-
-#### 3.1 - Irregular Nouns
-
-- Some masculine nouns ending in **-ь** change to **-и** in the plural:
-    
-    - зверь (beast) → звери (beasts)
-        
-    - мать (mother) → матери (mothers)
-        
-- Some feminine nouns ending in **-я** or **-ь** change irregularly:
-    
-    - хозяйка (mistress) → хозяйки (mistresses)
-        
-    - нить (thread) → нити (threads)
-        
-
-#### 3.2 - Inanimate Objects and Collective Nouns
-
-- Inanimate nouns may sometimes retain their singular form even in plural contexts (especially when talking about categories or groups). For example:
-    
-    - дети (children), люди (people), птицы (birds)
-        
-
----
-
-### 🎯 Conclusion
-
-The pluralization of nouns and adjectives in Russian is governed by several rules depending on gender, declension, and the ending of the word. While many nouns and adjectives follow predictable patterns, there are exceptions that require memorization. Understanding plural forms is a crucial part of mastering Russian grammar, and it helps ensure that your speech and writing are grammatically correct. With practice, these forms will become second nature, allowing you to communicate effectively in a variety of contexts.
-
----
+Mastering **plural forms** in Russian is crucial for proper agreement in speech and writing. Learn how each gender forms plurals, remember spelling rules, and always ensure adjectives and nouns agree. Practice regularly with common nouns and their plural adjectives to reinforce the patterns.

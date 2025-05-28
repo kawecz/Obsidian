@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa8e9dacf66c1898",
+        "id": "eebc81a81c8ad5a3",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe4b89068040de0",
+            "id": "222c76fe8048a257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📗A1/📜Story/🐢Żółw i Słońce.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🐢Żółw i Słońce"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -168,15 +164,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebe4b89068040de0",
+  "active": "968e8e60a72785cf",
   "lastOpenFiles": [
-    "📘B1/📚Grammar/📕Genitive case/1-What it is.md",
+    "‎/Pasted image 20250528073310.png",
+    "‎",
+    "‎/Pasted image 20250528073237.png",
+    "📗A1/🗺Geography/🗺About the Country/Local in Europe.md",
+    "📗A1/🗺Geography/🗺About the Country/Population.md",
+    "📗A1/📚Grammar/2-Present simple tense.md",
     "📗A1/📜Story/🐢Żółw i Słońce.md",
+    "📘B1/📚Grammar/📕Genitive case/1-What it is.md",
     "📗A1/📜Story/🐸 Żaba i Księżyc.md",
     "📗A1/📜Story/🐦 Ptak i Wiatr.md",
     "📗A1/📜Story/🐶 Pies i Deszcz.md",
     "📗A1/📜Story/🐱 Kot i Myszka.md",
-    "📗A1/📚Grammar/2-Present simple tense.md",
     "📗A1/📜Story",
     "📗A1/📚Grammar/1-Basic sentence structure (SVO).md",
     "📗A1/📚Grammar/📕Nominative case/2-Learning basic noun and adjective endings in nominative.md",
@@ -194,9 +195,6 @@
     "📙C2/🗺Geography/Poland’s role in European transportation and logistics.md",
     "📙C2/📚Vocabulary/Rare animal species in Poland (rzadkie gatunki zwierząt w Polsce).md",
     "📙C2/📚Vocabulary/Environmental discussions (środowisko i ekologia).md",
-    "📙C2/📚Vocabulary/Detailed architectural vocabulary (szczegółowa terminologia architektoniczna).md",
-    "📙C2/📚Grammar/2-Stylistic variations and rhetorical devices.md",
-    "📙C2/📚Grammar/1-Mastery of complex syntax.md",
     "📙C2/📚Grammar/📕Locative & Vocative 1",
     "📙C2/🗺Geography",
     "📙C1/🗺Geography",
@@ -204,7 +202,6 @@
     "📘B1/🗺Geography",
     "📗A1/🗺Geography/🗺About the Country",
     "📗A2/🗺Geography/🏞 Major Lakes and Rivers",
-    "📗A2/🗺Geography/🗺Main Geographical divisions",
-    "📗A2/🗺Geography"
+    "📗A2/🗺Geography/🗺Main Geographical divisions"
   ]
 }

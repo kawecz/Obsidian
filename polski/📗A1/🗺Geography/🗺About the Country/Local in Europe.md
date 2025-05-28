@@ -19,8 +19,7 @@ Poland is a **Central European** country with a **strategic location** connectin
 
 🔹 **Example Sentence:**
 
-- _Polska leży w Europie Środkowej._ (_Poland is located in Central Europe._)
-    
+- _Polska leży w Europie Środkowej._ (_Poland is located in Central Europe._)    ![[Pasted image 20250528073237.png]]
 
 ---
 
@@ -42,6 +41,7 @@ Poland shares borders with **seven countries**:
 
 - _Polska graniczy z Niemcami i Czechami._ (_Poland borders Germany and the Czech Republic._)
     
+![[Pasted image 20250528073310.png]]
 
 ---
 

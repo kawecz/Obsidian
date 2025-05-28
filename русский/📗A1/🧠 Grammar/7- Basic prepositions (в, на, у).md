@@ -1,83 +1,51 @@
 
 ---
+## 📍 Introduction
 
-|🇷🇺 Topic|7 - Basic Prepositions (в, на, у)|
-|---|---|
+**Basic prepositions** (_предлоги_) in Russian are essential tools for expressing **location, direction, time, cause**, and other relationships. They are always followed by a noun or pronoun in a specific **grammatical case**, so learning prepositions also means learning which case they require.
 
-### 📚 Introduction
+## 🧭 Most Common Russian Prepositions
 
-Prepositions in Russian are small but powerful words that **connect nouns with other parts of the sentence**. They often **govern specific grammatical cases**, so it's important to learn them with the cases they require. The three most commonly used prepositions for beginners are **в (in/into), на (on/onto), and у (at/by/near)**.
+|Preposition|Meaning|Required Case|Example|Translation|
+|---|---|---|---|---|
+|**в**|in, into|Prepositional / Accusative|_в доме_ / _в школу_|in the house / to school|
+|**на**|on, onto|Prepositional / Accusative|_на столе_ / _на работу_|on the table / to work|
+|**с(о)**|with, from|Instrumental / Genitive|_с другом_ / _со стола_|with a friend / from the table|
+|**у**|by, at, near, possession|Genitive|_у окна_ / _у меня есть_|near the window / I have|
+|**к(о)**|to, toward|Dative|_к врачу_|to the doctor|
+|**от(о)**|from|Genitive|_от бабушки_|from grandma|
+|**без**|without|Genitive|_без сахара_|without sugar|
+|**для**|for|Genitive|_для мамы_|for mom|
+|**о(б, обо)**|about|Prepositional|_о фильме_ / _об этом_|about the movie / about this|
+|**по**|along, according to|Dative|_по дороге_, _по плану_|along the road, according to the plan|
+|**под**|under|Instrumental / Accusative|_под столом_ / _под стол_|under the table / (motion) under the table|
+|**над**|above, over|Instrumental|_над городом_|over the city|
+|**перед**|in front of, before|Instrumental|_перед домом_|in front of the house|
+|**за**|behind, beyond, for|Instrumental / Accusative|_за домом_ / _за дом_|behind the house / (motion) behind the house|
+|**между**|between|Instrumental|_между друзьями_|between friends|
 
----
+## 🧾 Case Usage Overview
 
-### 📍 1 - Preposition **в** (in / into)
+|Preposition|When It Uses...|Case|
+|---|---|---|
+|**в / на**|Location|Prepositional|
+|**в / на**|Motion (into/onto)|Accusative|
+|**с / под / над / перед / между**|No motion|Instrumental|
+|**за / под**|With motion|Accusative|
 
-- Governs: **Accusative (motion)** or **Prepositional (location)**
+## 🗣️ Example Sentences
+
+- _Книга на столе._ – The book is on the table.
     
-- **Used for:** Being inside something, or going into something (buildings, cities, rooms, countries)
+- _Мы идём в парк._ – We’re going to the park.
     
-
-|Usage|Example (Russian)|Translation|Case|
-|---|---|---|---|
-|Location|Я живу **в Москве**.|I live **in Moscow**.|Prepositional|
-|Motion to place|Я иду **в школу**.|I’m going **to school**.|Accusative|
-
----
-
-### 🌍 2 - Preposition **на** (on / onto)
-
-- Governs: **Accusative (motion)** or **Prepositional (location)**
+- _Он живёт у бабушки._ – He lives at his grandmother’s.
     
-- **Used for:** Open spaces, surfaces, public institutions/events (table, island, beach, university)
+- _Я говорю о музыке._ – I’m talking about music.
     
-
-|Usage|Example (Russian)|Translation|Case|
-|---|---|---|---|
-|Location|Книга **на столе**.|The book is **on the table**.|Prepositional|
-|Motion to place|Я иду **на концерт**.|I’m going **to a concert**.|Accusative|
-
----
-
-### 🏡 3 - Preposition **у** (at / by / near / have)
-
-- Governs: **Genitive case**
-    
-- **Used for:** Expressing possession (like "have"), location near someone’s place, or proximity.
-    
-
-|Usage|Example (Russian)|Translation|Case|
-|---|---|---|---|
-|Possession|**У меня** есть книга.|I **have** a book.|Genitive|
-|Location|Я **у друга**.|I’m **at a friend’s place**.|Genitive|
-|Proximity|Машина **у дома**.|The car is **by the house**.|Genitive|
-
----
-
-### 🧠 4 - Grammar Tips
-
-- "в" and "на" require you to choose between **Accusative (for movement)** or **Prepositional (for static location)**.
-    
-- "у" always needs **Genitive case** after it.
-    
-- You must change the **noun’s ending** according to the case the preposition requires.
+- _Мальчик с отцом._ – The boy is with his father.
     
 
----
+## ✅ Conclusion
 
-### 🧩 5 - Practice Sentences
-
-|Russian Sentence|English Translation|
-|---|---|
-|Я живу **в России**.|I live **in Russia**.|
-|Мы идём **на рынок**.|We are going **to the market**.|
-|Книга лежит **на столе**.|The book is lying **on the table**.|
-|Он **у врача**.|He is **at the doctor’s**.|
-|**У него** есть машина.|He **has** a car.|
-
----
-
-### 🎯 Conclusion
-
-These three basic prepositions — **в**, **на**, and **у** — appear in everyday Russian constantly. By learning how they work with different cases, you’ll gain a stronger grasp on Russian sentence structure and be able to express location, motion, and possession with confidence.
-
----
+Russian **basic prepositions** are vital for expressing space, direction, time, and relationships. Always remember that a preposition requires a specific **case**, and the meaning can change depending on motion or position. Mastering prepositions helps build more precise and natural sentences.
