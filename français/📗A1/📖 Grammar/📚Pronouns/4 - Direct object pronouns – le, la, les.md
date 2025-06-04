@@ -1,4 +1,6 @@
 
+---
+
 ### 🎯 Introduction
 
 **Direct object pronouns** in French replace nouns that **receive the action** of the verb **directly**, without a preposition. They help **avoid repetition** and make speech smoother and more natural.

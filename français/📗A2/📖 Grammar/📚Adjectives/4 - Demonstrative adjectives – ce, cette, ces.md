@@ -1,4 +1,6 @@
 
+---
+
 ### 🎯 Introduction
 
 **Demonstrative adjectives** in French are used to **point out specific nouns**, just like “this” or “that” in English. They agree in **gender** and **number** with the noun they modify and always come **before the noun**.

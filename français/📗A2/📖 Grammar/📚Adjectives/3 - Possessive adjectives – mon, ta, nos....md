@@ -1,4 +1,5 @@
 
+---
 ### 🎯 Introduction
 
 Possessive adjectives in French indicate **ownership or relationship**, and they **agree in gender and number** with the **noun** that follows—not with the person who possesses it. This agreement is key to choosing the correct form.
