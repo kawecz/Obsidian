@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eebc81a81c8ad5a3",
+        "id": "4c5fb3e426f81cab",
         "type": "tabs",
         "children": [
           {
-            "id": "222c76fe8048a257",
+            "id": "8875f865fa8bac7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📗A1/📚Vocabulary/📘 Essential Polish Verbs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -168,15 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "222c76fe8048a257",
+  "active": "8875f865fa8bac7c",
   "lastOpenFiles": [
+    "📗A1/📚Grammar/15- Nouns Genders and Plural.md",
     "📗A1/📚Vocabulary/📘 Essential Polish Verbs.md",
+    "📗A1/🗺Geography/🗺About the Country/Population.md",
+    "📗A1/🗺Geography/🗺About the Country/Local in Europe.md",
+    "📗A1/🧾History/Overview of Poland_s early history and foundation.md",
+    "📗A1/🧾History/First Piast rulers and the Christianization of Poland.md",
+    "📗A1/📚Grammar/2-Present simple tense.md",
+    "📗A1/📚Grammar/1-Basic sentence structure (SVO).md",
+    "📗A2/📚Grammar/1-Past tense (imperfective and perfective distinction).md",
+    "📗A2/📚Grammar/📕Accusative case/1-What it is.md",
+    "📗A1/📚Grammar/📕Nominative case/1-What it is.md",
+    "📗A1/📚Grammar/7-Coordinating Conjunctions.md",
     "‎/Pasted image 20250528073310.png",
     "‎",
     "‎/Pasted image 20250528073237.png",
-    "📗A1/🗺Geography/🗺About the Country/Local in Europe.md",
-    "📗A1/🗺Geography/🗺About the Country/Population.md",
-    "📗A1/📚Grammar/2-Present simple tense.md",
     "📗A1/📜Story/🐢Żółw i Słońce.md",
     "📘B1/📚Grammar/📕Genitive case/1-What it is.md",
     "📗A1/📜Story/🐸 Żaba i Księżyc.md",
@@ -184,9 +192,7 @@
     "📗A1/📜Story/🐶 Pies i Deszcz.md",
     "📗A1/📜Story/🐱 Kot i Myszka.md",
     "📗A1/📜Story",
-    "📗A1/📚Grammar/1-Basic sentence structure (SVO).md",
     "📗A1/📚Grammar/📕Nominative case/2-Learning basic noun and adjective endings in nominative.md",
-    "📗A1/📚Grammar/📕Nominative case/1-What it is.md",
     "📗A1/📚Grammar/📕Nominative case/3-Practicing simple sentences with nominative nouns.md",
     "📗A1/📚Grammar/6-Basic prepositions (w, na, z, do, etc.).md",
     "📗A1/📚Grammar/5-Definite and indefinite articles.md",
@@ -194,12 +200,6 @@
     "📗A1/📚Vocabulary/13-Alphabet.md",
     "📗A1/📚Vocabulary/1-Common greetings and introductions.md",
     "📙C2/🧾History/Poland in the European Union and modern geopolitical influence.md",
-    "📙C2/🧾History/Contemporary Poland politics, culture, and economic growth.md",
-    "📙C2/🧾Culture/Polish cultural identity through language.md",
-    "📙C2/🗺Geography/The future of Poland’s urban and environmental planning.md",
-    "📙C2/🗺Geography/Poland’s role in European transportation and logistics.md",
-    "📙C2/📚Vocabulary/Rare animal species in Poland (rzadkie gatunki zwierząt w Polsce).md",
-    "📙C2/📚Vocabulary/Environmental discussions (środowisko i ekologia).md",
     "📙C2/📚Grammar/📕Locative & Vocative 1",
     "📙C2/🗺Geography",
     "📙C1/🗺Geography",

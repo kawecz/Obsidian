@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f565963613a16b2",
+            "id": "b2e69379e43a1559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📙C2/🧠 Grammar/📚cases/Instrumental Case.md",
+                "file": "📗A2/📚 Vocabulary/6-Weather & Seasons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instrumental Case"
+              "title": "6-Weather & Seasons"
             }
           }
         ]
@@ -168,8 +168,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f565963613a16b2",
+  "active": "b2e69379e43a1559",
   "lastOpenFiles": [
+    "📗A2/📚 Vocabulary/5-Travel & Transport.md",
+    "📗A2/📚 Vocabulary/4-Time & Dates.md",
+    "📗A2/📚 Vocabulary/3-House & Home.md",
+    "📗A1/📚 Vocabulary/1- Greetings and introductions.md",
+    "📗A2/📚 Vocabulary/2-Hobbies & Free Time.md",
+    "📗A2/📚 Vocabulary/1-Daily Routines.md",
+    "📗A1/🧠 Grammar/11- Coordinating conjunctions (и, а, но, или).md",
+    "📗A2/📚 Vocabulary/📚Essential Verbs.md",
+    "📗A1/📚 Vocabulary/📚Essential Verbs.md",
+    "📘B1/📚 Vocabulary/7- Essential Verbs.md",
+    "📘B2/📚 Vocabulary/6- Essential Verbs.md",
+    "📙C1/📚 Vocabulary/6- Essential Verbs.md",
+    "📙C2/📚 Vocabulary/Essential Verbs.md",
+    "📗A1/📚 Vocabulary/Essential Verbs 1.md",
+    "📗A2/📚 Vocabulary/6-Weather & Seasons.md",
+    "📙C2/🧠 Grammar/📚cases/Instrumental Case.md",
+    "📗A2/📚 Vocabulary",
     "📙C1/🧠 Grammar/📚cases/Dative Case.md",
     "📘B2/🧠 Grammar/📚cases/Genitive Case.md",
     "📘B1/🧠 Grammar/📚cases/Prepositional Case.md",
@@ -180,22 +197,6 @@
     "📗A2/🧠 Grammar/4-Modal verbs (мочь, хотеть, нужно).md",
     "📗A2/🧠 Grammar/3-Introduction to aspect.md",
     "📗A2/🧠 Grammar/2-Imperfective verbs.md",
-    "📗A2/🧠 Grammar/1-Plural forms of nouns and adjectives.md",
-    "📗A2/🧠 Grammar/📚cases/Accusative Case.md",
-    "📗A2/🕰️ History/2- Grand Duchy of Moscow.md",
-    "📗A1/🧠 Grammar/11- Coordinating conjunctions (и, а, но, или).md",
-    "📗A1/🧠 Grammar/1-Cyrillic alphabet & pronunciation.md",
-    "📗A1/🧠 Grammar/2-Noun gender (masc-fem-neut).md",
-    "📗A1/🧠 Grammar/6-Object pronouns (меня, тебя).md",
-    "📗A1/🧠 Grammar/7- Basic prepositions (в, на, у).md",
-    "📗A1/🧠 Grammar/10-Questions (кто, что, где, как, почему).md",
-    "📗A1/🧠 Grammar/📚cases/Nominative.md",
-    "📗A1/📚 Vocabulary/8- Body.md",
-    "📗A1/📚 Vocabulary/7- Basic household items.md",
-    "📗A1/📚 Vocabulary/5- Food and drinks.md",
-    "📗A1/📚 Vocabulary/4- Colors and basic adjectives.md",
-    "📗A1/📚 Vocabulary/3- Days of the week and months.md",
-    "📗A1/📚 Vocabulary/1- Greetings and introductions.md",
     "📘B2/🧠 Grammar/📚cases/Untitled",
     "📙C2/🧠 Grammar/📚cases",
     "📙C1/🧠 Grammar/📚cases",

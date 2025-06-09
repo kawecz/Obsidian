@@ -717,6 +717,3 @@ knows this place.)*
 8. Oni znają się dobrze. _(They know each other well.)_  
 9. One znają odpowiedź. _(They know the answer.)_  
 10. Nie znam tego słowa. _(I don’t know this word.)_
-
-
-If you want me to compile these into a downloadable file or a nicely formatted document, just let me know!
