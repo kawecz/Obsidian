@@ -1,5 +1,8 @@
 # Ignore Obsidian workspace files
-**/.obsidian/workspace*.json
+**/.obsidian/workspace*
+**/.obsidian/workspace-mobile.json
+**/.obsidian/workspace.json
 
-# Optional: Ignore all Obsidian settings (if you don't want to sync them)
-# .obsidian/
+# Optional: Ignore other Obsidian cache files
+**/.obsidian/backups/
+**/.obsidian/cache/
