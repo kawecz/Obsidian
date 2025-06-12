@@ -1,0 +1,5 @@
+# Ignore Obsidian workspace files
+**/.obsidian/workspace*.json
+
+# Optional: Ignore all Obsidian settings (if you don't want to sync them)
+# .obsidian/
