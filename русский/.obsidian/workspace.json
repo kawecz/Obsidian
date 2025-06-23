@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📗A1/📚 Vocabulary/6- Common verbs and commands.md",
+                "file": "📗A1/📚 Vocabulary/📚Essential Verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6- Common verbs and commands"
+              "title": "📚Essential Verbs"
             }
           },
           {
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "4-Personal pronouns"
+            }
+          },
+          {
+            "id": "a3c77d77aee3664d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📗A1/📚 Vocabulary/1- Greetings and introductions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1- Greetings and introductions"
             }
           }
         ]
@@ -182,16 +196,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a08bf08e467b2bae",
+  "active": "d8f63c37f42597fc",
   "lastOpenFiles": [
+    "📗A1/📚 Vocabulary/1- Greetings and introductions.md",
+    "📗A1/🧠 Grammar/14 - Cases Endings (Singular).md",
+    "📗A1/🧠 Grammar/13 - Cases Endings (Singular).md",
+    "📗A1/🧠 Grammar/12 - Masculine, Feminine and Neuter.md",
+    "📗A1/🧠 Grammar/2-Noun gender (masc-fem-neut).md",
+    "📗A1/🧠 Grammar/5-Singular noun cases - Nominative & Accusative.md",
+    "📗A1/📚 Vocabulary/📚Essential Verbs.md",
+    "📗A1/🧠 Grammar/4-Personal pronouns.md",
+    "📗A1/📚 Vocabulary/6- Common verbs and commands.md",
     "📗A2/🧠 Grammar/9 - Polish Plural Endings.md",
     "📗A1/🧠 Grammar/12 - Polish Noun Genders & Endings.md",
     "📘B1/🧠 Grammar/14 - Polish Case Endings.md",
-    "📗A1/📚 Vocabulary/1- Greetings and introductions.md",
-    "📗A1/📚 Vocabulary/6- Common verbs and commands.md",
-    "📗A1/🧠 Grammar/4-Personal pronouns.md",
     "📗A1/🧠 Grammar/3-Present tense of regular verbs.md",
-    "📗A1/📚 Vocabulary/📚Essential Verbs.md",
     "📗A2/📚 Vocabulary/6-Weather & Seasons.md",
     "📗A2/📚 Vocabulary/5-Travel & Transport.md",
     "📗A2/📚 Vocabulary/4-Time & Dates.md",
@@ -205,12 +224,7 @@
     "📙C1/📚 Vocabulary/6- Essential Verbs.md",
     "📙C2/📚 Vocabulary/Essential Verbs.md",
     "📗A1/📚 Vocabulary/Essential Verbs 1.md",
-    "📙C2/🧠 Grammar/📚cases/Instrumental Case.md",
     "📗A2/📚 Vocabulary",
-    "📙C1/🧠 Grammar/📚cases/Dative Case.md",
-    "📘B2/🧠 Grammar/📚cases/Genitive Case.md",
-    "📘B1/🧠 Grammar/📚cases/Prepositional Case.md",
-    "📗A2/🧠 Grammar/5-Past tense formation.md",
     "📘B2/🧠 Grammar/📚cases/Untitled",
     "📙C2/🧠 Grammar/📚cases",
     "📙C1/🧠 Grammar/📚cases",
