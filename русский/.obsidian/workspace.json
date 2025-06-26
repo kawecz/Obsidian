@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📗A1/🧠 Grammar/12 - Masculine, Feminine and Neuter.md",
+                "file": "📗A2/🧠 Grammar/9-Particles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - Masculine, Feminine and Neuter"
+              "title": "9-Particles"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "2- Numbers and dates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,11 +211,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8f63c37f42597fc",
+  "active": "cff70b3df12f81ed",
   "lastOpenFiles": [
+    "📗A2/🧠 Grammar/9-Particles.md",
+    "📗A1/🧠 Grammar/12 - Masculine, Feminine and Neuter.md",
     "📗A1/📚 Vocabulary/9 - Countries and Nationalities.md",
     "📗A1/🧠 Grammar/4-Personal pronouns.md",
-    "📗A1/🧠 Grammar/12 - Masculine, Feminine and Neuter.md",
     "📗A1/📚 Vocabulary/1- Greetings and introductions.md",
     "📗A1/📚 Vocabulary/2- Numbers and dates.md",
     "📗A1/🧠 Grammar/2-Noun gender (masc-fem-neut).md",
@@ -237,7 +239,6 @@
     "📗A2/📚 Vocabulary/2-Hobbies & Free Time.md",
     "📗A2/📚 Vocabulary/1-Daily Routines.md",
     "📗A1/🧠 Grammar/11- Coordinating conjunctions (и, а, но, или).md",
-    "📗A2/📚 Vocabulary/📚Essential Verbs.md",
     "📗A2/📚 Vocabulary",
     "📘B2/🧠 Grammar/📚cases/Untitled",
     "📙C2/🧠 Grammar/📚cases",
