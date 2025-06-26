@@ -12,31 +12,31 @@ Numbers in Russian are central to communication. Beyond simple counting, they in
 
 ### 📖 Extended Vocabulary: Numbers 0–1,000,000
 
-|🇷🇺 Russian|🇬🇧 English|💬 Notes|
-|---|---|---|
-|ноль|zero||
-|один / одна / одно|one|Gender-specific|
-|два / две|two|Gender-specific|
-|три|three||
-|четыре|four||
-|пять|five||
-|шесть|six||
-|семь|seven||
-|восемь|eight||
-|девять|nine||
-|десять|ten||
-|одиннадцать|eleven|11–19 use –надцать ending|
-|двадцать|twenty|Combine with units: 21–29|
-|тридцать|thirty||
-|сорок|forty|Irregular form|
-|пятьдесят|fifty|50–90 follow similar pattern|
-|шестьдесят|sixty||
-|семьдесят|seventy||
-|восемьдесят|eighty||
-|девяносто|ninety||
-|сто|one hundred||
-|тысяча|one thousand|Feminine noun|
-|миллион|one million|Masculine noun|
+| 🇷🇺 Russian       | 🇬🇧 English | 💬 Notes                     |
+| ------------------ | ------------ | ---------------------------- |
+| ноль               | zero         |                              |
+| один / одна / одно | one          | Gender-specific              |
+| два / две          | two          | Gender-specific              |
+| три                | three        |                              |
+| четыре             | four         |                              |
+| пять               | five         |                              |
+| шесть              | six          |                              |
+| семь               | seven        |                              |
+| восемь             | eight        |                              |
+| девять             | nine         |                              |
+| десять             | ten          |                              |
+| одиннадцать        | eleven       | 11–19 use –надцать ending    |
+| двадцать           | twenty       | Combine with units: 21–29    |
+| тридцать           | thirty       |                              |
+| сорок              | forty        | Irregular form               |
+| пятьдесят          | fifty        | 50–90 follow similar pattern |
+| шестьдесят         | sixty        |                              |
+| семьдесят          | seventy      |                              |
+| восемьдесят        | eighty       |                              |
+| девяносто          | ninety       |                              |
+| сто                | one hundred  |                              |
+| тысяча             | one thousand | Feminine noun                |
+| миллион            | one million  | Masculine noun               |
 
 ---
 
