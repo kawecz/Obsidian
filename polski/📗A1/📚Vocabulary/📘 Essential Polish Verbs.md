@@ -290,16 +290,14 @@
 
 ### ✅ **9. wiedzieć** – _to know (a fact)_
 
-|Person|Conjugation|
-|---|---|
-|ja|wiem|
-|ty|wiesz|
-|on/ona/ono|wie|
-|my|wiemy|
-|||
-
-wy | wiecie |  
-| oni/one | wiedzą |
+| Person     | Conjugation |
+| ---------- | ----------- |
+| ja         | wiem        |
+| ty         | wiesz       |
+| on/ona/ono | wie         |
+| my         | wiemy       |
+| wy         | wiecie      |
+| oni/one    | wiedzą      |
 
 **Examples:**
 
@@ -590,8 +588,6 @@ wy | wiecie |
 |oni/one|kupują|
 
 
-
-If you want me to compile these into a downloadable file or a nicely formatted document, just let me know!
 **Examples:**
 
 1. Kupuję chleb. _(I’m buying bread.)_
@@ -703,13 +699,8 @@ If you want me to compile these into a downloadable file or a nicely formatted d
 **Examples:**
 
 1. Znam tego człowieka. _(I know this man.)_
-    
 2. Znasz moją siostrę? _(Do you know my sister?)_
-    
-3. On zna to miejsce. *(He
-    
-
-knows this place.)*  
+3. On zna to miejsce. *(He knows this place.)*  
 4. Ona zna język polski. _(She knows the Polish language.)_  
 5. Dziecko zna imiona. _(The child knows the names.)_  
 6. Znamy się od lat. _(We have known each other for years.)_  
