@@ -1,99 +1,93 @@
 
 ---
 
-|🇷🇺 Topic|3 - Present Tense of Regular Verbs (Настоящее время правильных глаголов)|
-|---|---|
+### **🇷🇺 Topic 3 - Present Tense of Regular Verbs**  
+*(Настоящее время правильных глаголов)*  
 
-### 📚 Introduction
-
-In Russian, the **present tense** is used to describe actions happening **now** or **repeatedly**. Unlike English, **only imperfective verbs** have a present tense form. Verbs in Russian are conjugated according to **person** (я, ты, он/она/оно, мы, вы, они) and follow **two main conjugation patterns**.
-
----
-
-### 📘 1 - Personal Pronouns
-
-|Person|Pronoun|English|
-|---|---|---|
-|1st singular|я|I|
-|2nd singular|ты|you (informal)|
-|3rd singular|он / она / оно|he / she / it|
-|1st plural|мы|we|
-|2nd plural|вы|you (plural/formal)|
-|3rd plural|они|they|
+#### **📚 Introduction**  
+In Russian, the present tense is used for:  
+1. Actions happening **now** (*Я читаю* – "I am reading").  
+2. **Habitual actions** (*Она работает в банке* – "She works at a bank").  
+⚠️ **Only imperfective verbs** have a present tense. Perfective verbs (e.g., *прочитать* – "to read to completion") **cannot** be used in the present.  
 
 ---
 
-### 🔧 2 - Verb Conjugation Types
-
-#### Type 1️⃣ - First Conjugation
-
-Most verbs ending in **-ать, -ять, -еть (some), -овать**
-
-| Example Verb: говорить (to speak) |
-
-|Pronoun|Ending|Conjugation|Translation|
-|---|---|---|---|
-|я|-ю|говорю|I speak|
-|ты|-ешь|говоришь|you speak|
-|он/она/оно|-ет|говорит|he/she/it speaks|
-|мы|-ем|говорим|we speak|
-|вы|-ете|говорите|you (pl.) speak|
-|они|-ют|говорят|they speak|
-
-#### Type 2️⃣ - Second Conjugation
-
-Most verbs ending in **-ить**
-
-| Example Verb: учить (to teach/learn) |
-
-|Pronoun|Ending|Conjugation|Translation|
-|---|---|---|---|
-|я|-у|учу|I teach|
-|ты|-ишь|учишь|you teach|
-|он/она/оно|-ит|учит|he/she/it teaches|
-|мы|-им|учим|we teach|
-|вы|-ите|учите|you (pl.) teach|
-|они|-ат|учат|they teach|
+### **📘 1. Personal Pronouns**  
+| Person       | Pronoun      | English              |  
+|--------------|-------------|----------------------|  
+| 1st singular | **я**       | I                    |  
+| 2nd singular | **ты**      | you (informal)       |  
+| 3rd singular | **он/она/оно** | he/she/it         |  
+| 1st plural   | **мы**      | we                   |  
+| 2nd plural   | **вы**      | you (plural/formal)  |  
+| 3rd plural   | **они**     | they                 |  
 
 ---
 
-### 🧠 3 - Common Regular Verbs
+### **🔧 2. Verb Conjugation Types**  
+#### **Type 1️⃣ - First Conjugation**  
+- **Endings**: -ать, -ять, -еть, -овать (**but not all -еть verbs!**).  
+- **Example Verb**: **читать** (to read) *(not говорить – that’s Type 2!)*  
 
-|Infinitive|Meaning|Type|
-|---|---|---|
-|читать|to read|Type 1|
-|писать|to write|Type 1|
-|жить|to live|Type 2|
-|видеть|to see|Type 2|
-|работать|to work|Type 1|
-|понимать|to understand|Type 1|
+| Pronoun   | Ending | Conjugation | Translation      |  
+|-----------|--------|-------------|------------------|  
+| я         | -ю     | чита**ю**   | I read           |  
+| ты        | -ешь   | чита**ешь** | you read         |  
+| он/она/оно | -ет   | чита**ет**  | he/she/it reads  |  
+| мы        | -ем    | чита**ем**  | we read          |  
+| вы        | -ете   | чита**ете** | you (pl.) read   |  
+| они       | -ют    | чита**ют**  | they read        |  
 
----
+#### **Type 2️⃣ - Second Conjugation**  
+- **Endings**: Mostly -ить (**but some -ать/-еть verbs like смотреть, видеть**).  
+- **Example Verb**: **говорить** (to speak) *(not учить – that’s irregular!)*  
 
-### 🔄 4 - Notes on Spelling Rules
+| Pronoun   | Ending | Conjugation  | Translation       |  
+|-----------|--------|--------------|-------------------|  
+| я         | -ю     | говор**ю**   | I speak           |  
+| ты        | -ишь   | говор**ишь** | you speak         |  
+| он/она/оно | -ит   | говор**ит**  | he/she/it speaks  |  
+| мы        | -им    | говор**им**  | we speak          |  
+| вы        | -ите   | говор**ите** | you (pl.) speak   |  
+| они       | -ят    | говор**ят**  | they speak        |  
 
-- After **ж, ч, ш, щ**, use **-у / -ю** instead of **-у / -ю** in 1st person singular.  
-    Example: **пишу**, not _пишю_
-    
-- Consonant mutation might occur in verbs like _мочь_ → _могу_, _могут_
-    
-
----
-
-### 🧩 5 - Practice Sentences
-
-|Russian|English|
-|---|---|
-|Я читаю книгу.|I am reading a book.|
-|Ты учишь русский язык.|You are learning Russian.|
-|Мы живём в Москве.|We live in Moscow.|
-|Они работают в школе.|They work at school.|
-
----
-
-### 🎯 Conclusion
-
-Mastering present tense conjugation is fundamental to building sentences in Russian. Focus on the two main verb types and memorize endings through consistent practice. Pay special attention to spelling rules and irregularities as your vocabulary grows.
+⚠️ **Critical Fixes**:  
+1. **говорить** is **Type 2** (not Type 1).  
+2. **учить** is **irregular** (я учу, они учат) – avoid as a regular example.  
 
 ---
 
+### **🧠 3. Common Regular Verbs**  
+| Infinitive | Meaning        | Type  |  
+|------------|---------------|-------|  
+| читать     | to read       | **1** |  
+| писать     | to write      | **1** |  
+| жить       | to live       | **2** |  
+| видеть     | to see        | **2** |  
+| работать   | to work       | **1** |  
+| понимать   | to understand | **1** |  
+
+---
+
+### **🔄 4. Spelling Rules & Exceptions**  
+1. After **ж, ч, ш, щ, ц**: Use **-у/-ут** (not -ю/-ют):  
+   - *я пиш**у*** (I write), *они пиш**ут*** (they write).  
+2. **Consonant mutations**:  
+   - *мог**у*** (I can), *мог**ут*** (they can).  
+
+---
+
+### **🧩 5. Practice Sentences**  
+| Russian               | English                     |  
+|-----------------------|-----------------------------|  
+| Я читаю книгу.        | I am reading a book.        |  
+| Ты **говоришь** по-русски. | You speak Russian.    | *(Fixed verb choice)* |  
+| Мы живём в Москве.    | We live in Moscow.          |  
+| Они работают в школе. | They work at school.        |  
+
+---
+
+### **🎯 Conclusion**  
+- **Memorize Type 1/2 endings** and common irregulars (*учить, мочь*).  
+- **Practice with real examples** (e.g., *я работаю, ты видишь*).  
+- **Watch for -еть verbs**: Some are Type 1 (*смотреть*), some Type 2 (*видеть*).  

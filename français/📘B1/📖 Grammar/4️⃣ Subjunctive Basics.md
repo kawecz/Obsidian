@@ -24,11 +24,11 @@ Use the **third person plural (ils/elles)** form of the present tense → drop *
 
 ### 📘 Examples of Regular Verbs
 
-|Infinitive|Ils-form|Stem|Je Form|Nous Form|
-|---|---|---|---|---|
-|parler|parlent|parl-|que je parle|que nous parlions|
-|finir|finissent|finiss-|que tu finisses|que vous finissiez|
-|attendre|attendent|attend-|qu’il attende|qu’ils attendent|
+| Infinitive | Ils-form  | Stem    | Je Form         | Nous Form          |
+| ---------- | --------- | ------- | --------------- | ------------------ |
+| parler     | parlent   | parl-   | que je parle    | que nous parlions  |
+| finir      | finissent | finiss- | que tu finisses | que vous finissiez |
+| attendre   | attendent | attend- | qu’il attende   | qu’ils attendent   |
 
 ---
 

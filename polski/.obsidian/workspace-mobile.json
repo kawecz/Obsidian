@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📗A1/📚Vocabulary/📘 Essential Polish Verbs.md",
-                "mode": "source",
+                "file": "📗A2/📚Grammar/📕Accusative case/1-What it is.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 Essential Polish Verbs"
+              "title": "1-What it is"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "📗A1/📚Grammar/📕Nominative case/1-What it is.md",
+            "file": "📗A2/📚Grammar/📕Accusative case/1-What it is.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,6 +155,31 @@
   },
   "active": "35191ca43dcec6b0",
   "lastOpenFiles": [
-    "📗A1/📚Grammar/📕Nominative case/1-What it is.md"
+    "📗A2/📚Grammar/2-Future tense (simple and compound).md",
+    "📗A2/📚Grammar/1-Past tense (imperfective and perfective distinction).md",
+    "📗A1/📚Grammar/2-Present simple tense.md",
+    "📘B1/📚Grammar/2-Reflexive verbs and pronouns (czasowniki zwrotne).md",
+    "📘B1/📚Grammar/1-Aspect of verbs (perfective vs. imperfective) - aspekt czasownika.md",
+    "📘B2/📚Grammar/📕Dative case/1-What it is.md",
+    "📗A2/📚Grammar/📕Accusative case/1-What it is.md",
+    "📘B1/📚Grammar/📕Genitive case/1-What it is.md",
+    "📗A1/📚Grammar/1-Basic sentence structure (SVO).md",
+    "📗A2/📚Vocabulary/📘Essential Verbs.md",
+    "📗A1/📚Grammar/11-Demonstrative Pronoun.md",
+    "📗A2/📚Grammar/5-Possessive pronouns.md",
+    "📘B1/📚Grammar/6-Polish Case Endings.md",
+    "📗A1/📚Grammar/15- Nouns Genders and Plural.md",
+    "📗A2/📚Grammar/3-Adjective agreement and comparison.md",
+    "📗A1/📚Vocabulary/📘 Essential Polish Verbs.md",
+    "📗A1/📜Story/🐦 Ptak i Wiatr.md",
+    "📗A1/📜Story/🐱 Kot i Myszka.md",
+    "📗A1/📜Story/🐢Żółw i Słońce.md",
+    "📗A1/📚Grammar/4-Basic question formation.md",
+    "📗A1/📚Grammar/3-Subject pronouns.md",
+    "📗A1/📚Grammar/14-Conjugation patterns.md",
+    "📗A1/📚Grammar/7-Coordinating Conjunctions.md",
+    "📗A1/📚Grammar/10-Object Pronoun.md",
+    "📗A1/📚Grammar/9-Grammatical Mood.md",
+    "📗A1/📚Grammar/8-Subordinating Conjunction.md"
   ]
 }

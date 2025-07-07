@@ -30,13 +30,13 @@ They are placed **before the noun** and sometimes require **agreement** in gende
 
 ### 📗 2. **Ordinal Numbers** (for Order)
 
-|French|English|Agreement|Example (French)|Example (English)|
-|---|---|---|---|---|
-|premier / première|first|Gender|C’est la première fois.|It’s the first time.|
-|deuxième|second|Invariable|Le deuxième chapitre est long.|The second chapter is long.|
-|troisième|third|Invariable|Ma troisième tentative.|My third attempt.|
-|dernier / dernière|last|Gender|Le dernier jour.|The last day.|
-|prochain / prochaine|next|Gender|La prochaine semaine.|Next week.|
+| French               | English | Agreement  | Example (French)               | Example (English)           |
+| -------------------- | ------- | ---------- | ------------------------------ | --------------------------- |
+| premier / première   | first   | Gender     | C’est la première fois.        | It’s the first time.        |
+| deuxième             | second  | Invariable | Le deuxième chapitre est long. | The second chapter is long. |
+| troisième            | third   | Invariable | Ma troisième tentative.        | My third attempt.           |
+| dernier / dernière   | last    | Gender     | Le dernier jour.               | The last day.               |
+| prochain / prochaine | next    | Gender     | La prochaine semaine.          | Next week.                  |
 
 > 🔁 Ordinal numbers are **formed by adding “-ième”** to the base cardinal number (e.g., _trois → troisième_).  
 > Watch out for irregular ones like _premier / première_.
